@@ -3,7 +3,7 @@ This repo contains the ml experiment that was used to find all the similar image
 
 [Please Read PDF document in the repo](https://github.com/Aakash-ML/SimilarImageSearch/blob/master/Avatari_Doc.pdf)
 
-#code details:- 
+# Code Details:- 
 ## Task 1
 ### To find similar images.
 
