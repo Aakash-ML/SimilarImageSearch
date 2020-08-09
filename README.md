@@ -1,7 +1,7 @@
 # SimilarImageSearch
 This repo contains the ml experiment that was used to find all the similar images in the database.
 
-# ___Please Read PDF in the repo___
+[Please Read PDF document in the repo](https://github.com/Aakash-ML/SimilarImageSearch/blob/master/Avatari_Doc.pdf)
 
 #code details:- 
 ## Task 1
@@ -18,3 +18,6 @@ All the .ipynb are named as:-
 ## Task 2
 ### Image clustering
   * Avantari_TASK2_V1: Used pretrained MobileNet to extract feature then DBSCAN to cluster images.
+  
+### Reference
+ https://towardsdatascience.com/building-a-similar-images-finder-without-any-training-f69c0db900b5
