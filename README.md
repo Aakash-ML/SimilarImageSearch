@@ -14,6 +14,8 @@ All the .ipynb are named as:-
  * Avatari_TASK1_v2: Use of simple autoencoder, not the best
   
  * Avatari_TASK1_v2_3: Use of a bigger autoencoder without dropout layer, reconstruction better  than previous version but performance for similarity check still not comparable to pre-trained model.
+ 
+* Avantari_AutoEncoder_V0.1: Have tried to create a better performing Autoencoder, And it thus perform better. Please have a look and comment.
 
 ## Task 2
 ### Image clustering
